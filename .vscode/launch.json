@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/DAW/X-PROGRAMAME/NeetCode/Programame-me/C++/Practiques_programame_nadal",
-      "program": "C:/DAW/X-PROGRAMAME/NeetCode/Programame-me/C++/.vscode",
+      "cwd": "c:/Users/eduar/Coses_Escriptori/Estudis/DAW_Cendrassos/Programame-me/C++/Problemes-compe-nosaltres-programame",
+      "program": "c:/Users/eduar/Coses_Escriptori/Estudis/DAW_Cendrassos/Programame-me/C++/Problemes-compe-nosaltres-programame/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
