@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "c:/DAW/X-PROGRAMAME/NeetCode/Programame-me/C++/Prac_Programame_13-03-25",
       "program": "c:/DAW/X-PROGRAMAME/NeetCode/Programame-me/C++/Prac_Programame_13-03-25/build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/eduar/Coses_Escriptori/Estudis/DAW_Cendrassos/Programame-me/C++/Problemes-compe-nosaltres-programame",
+      "program": "c:/Users/eduar/Coses_Escriptori/Estudis/DAW_Cendrassos/Programame-me/C++/Problemes-compe-nosaltres-programame/build/Debug/outDebug",
+>>>>>>> 71b7a5ca0d622d6a47673f5870654e137dc99321
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
